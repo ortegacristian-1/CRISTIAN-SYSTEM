@@ -1,0 +1,14 @@
+# Archivos de seguridad
+restablecer.php
+.env
+.env.*
+
+# Archivos temporales
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+
+# Copias de seguridad de bases de datos
+*.bak
+*.backup
